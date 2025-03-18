@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.cache/
+.rscinfo
+
+# IDE-specific files
+.vscode/
+.DS_Store
+
+# Build artifacts
+dist/
+out/
